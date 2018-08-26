@@ -1,0 +1,10 @@
+宮子
+緋龍戟 1 6 False
+獅子王的守護 1 6 False
+玻斯菊服飾 1 6 False
+擊劍之靴 1 6 False
+八芒星墜飾 2 6 False
+聖騎士脛甲 1 7 False
+月下之法衣 1 7 False
+獅子王的守護 2 7 False
+擊劍之靴 1 7 False
