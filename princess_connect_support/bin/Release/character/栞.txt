@@ -1,5 +1,4 @@
 栞
-邱比特之弓 1 4 False
 多層次服飾 1 4 False
 惡魔之弓 1 5 False
 邱比特之弓 1 5 False
