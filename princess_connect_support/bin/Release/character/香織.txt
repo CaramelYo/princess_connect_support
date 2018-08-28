@@ -1,7 +1,0 @@
-香織
-玻斯菊服飾 1 6 False
-火焰拳套 1 7 False
-月下之法衣 1 7 False
-緋紅鑽石 1 7 False
-吸血鬼匕首 1 7 False
-獅鷲之羽飾 1 7 False
