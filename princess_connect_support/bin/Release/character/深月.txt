@@ -1,11 +1,7 @@
 深月
-華麗盔甲 1 4 False
-忍者鞋 1 4 False
-羽刃之劍 1 5 False
 龍紋劍 1 5 False
-戰陣鎧衣 1 5 False
 石榴石之盾 1 5 False
-蛋白石耳環 2 5 False
+蛋白石耳環 1 5 False
 天使之劍 1 6 False
 羽刃之劍 1 6 False
 重金屬盔甲 1 6 False
