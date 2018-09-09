@@ -1,2 +1,4 @@
 真琴
-雷神刀 1 7 False
+光輝之劍 1 8 False
+妖蝶之刀 1 8 False
+緋紅鑽石 1 8 False

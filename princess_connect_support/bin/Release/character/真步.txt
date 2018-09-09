@@ -1,2 +1,4 @@
 真步
-大魔導師長袍 1 7 False
+生命之杖 1 8 False
+巫師靴 1 8 False
+月桂樹的悲悽 1 8 False

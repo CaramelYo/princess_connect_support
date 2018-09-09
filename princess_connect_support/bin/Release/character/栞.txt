@@ -1,13 +1,5 @@
 栞
-獅鷲之羽飾 1 5 False
-雷光弓 1 6 False
-惡魔之弓 1 6 False
-緋紅鑽石 1 6 False
-宮廷服飾 1 6 False
-邱比特之弓 1 6 False
-獅鷲之羽飾 1 6 False
-雷光弓 1 7 False
 月下之法衣 1 7 False
-緋紅鑽石 1 7 False
-惡魔之弓 1 7 False
-八芒星墜飾 1 7 False
+天使之弓 1 8 False
+雷光弓 1 8 False
+緋紅鑽石 1 8 False
