@@ -1,5 +1,4 @@
 栞
-月下之法衣 1 7 False
 天使之弓 1 8 False
 雷光弓 1 8 False
 緋紅鑽石 1 8 False
