@@ -1,5 +1,4 @@
 優花梨
-太陽劍 1 7 False
 太陽劍 1 8 False
 女帝之盾 1 8 False
 獅子王的守護 1 8 False

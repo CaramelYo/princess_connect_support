@@ -1,0 +1,7 @@
+佩可
+太陽劍 1 7 False
+羽翼圓舞曲 1 7 False
+天使裝甲 1 7 False
+太陽劍 1 8 False
+羽翼圓舞曲 1 8 False
+獅子王的守護 1 8 False
