@@ -18,3 +18,5 @@
 公主懷劍 1 8 False
 聖騎士脛甲 1 8 False
 緋紅鑽石 1 8 False
+隱者服飾 1 8 False
+元素之心 1 8 False

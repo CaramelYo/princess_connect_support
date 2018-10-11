@@ -2,3 +2,5 @@
 太陽劍 1 8 False
 女帝之盾 1 8 False
 獅子王的守護 1 8 False
+天使之靴 1 8 False
+替身手環 1 8 False
