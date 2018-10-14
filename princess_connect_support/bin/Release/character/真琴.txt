@@ -1,6 +1,6 @@
 真琴
-光輝之劍 1 8 False
-妖蝶之刀 1 8 False
-緋紅鑽石 1 8 False
-秘銀脛甲 1 8 False
-元素之心 1 8 False
+光輝之劍 1 8 True
+妖蝶之刀 1 8 True
+緋紅鑽石 1 8 True
+秘銀脛甲 1 8 True
+元素之心 1 8 True

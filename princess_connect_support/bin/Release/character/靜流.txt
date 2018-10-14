@@ -1,6 +1,6 @@
 靜流
-太陽劍 1 8 False
-女帝之盾 1 8 False
-緋紅鑽石 1 8 False
-天使之靴 1 8 False
+太陽劍 1 8 True
+女帝之盾 1 8 True
+緋紅鑽石 1 8 True
+天使之靴 1 8 True
 替身手環 1 8 False

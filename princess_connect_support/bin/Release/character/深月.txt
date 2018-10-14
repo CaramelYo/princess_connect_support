@@ -1,6 +1,6 @@
 深月
-太陽劍 1 8 False
-羽翼圓舞曲 1 8 False
+太陽劍 1 8 True
+羽翼圓舞曲 1 8 True
 緋紅鑽石 1 8 True
-朱紅鎧甲 1 8 False
+朱紅鎧甲 1 8 True
 替身手環 1 8 False

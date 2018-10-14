@@ -2,5 +2,5 @@
 天使之弓 1 8 True
 雷光弓 1 8 True
 緋紅鑽石 1 8 True
-隱者服飾 1 8 False
+隱者服飾 1 8 True
 元素之心 1 8 False

@@ -2,5 +2,5 @@
 太陽之杖 1 8 True
 狂怒之杖 1 8 True
 月桂樹的悲悽 1 8 True
-法王兜帽 1 8 False
-新月的嘆息 1 8 False
+法王兜帽 1 8 True
+新月的嘆息 1 8 True
